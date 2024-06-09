@@ -5,13 +5,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uttamkumar05072023&label=Profile%20views&color=0e75b6&style=flat" alt="uttamkumar05072023" /> </p>
 
+- 🌱 I’m currently learning **Data Analysis**
+
+- 💬 Ask me about **Python**
+
 - 📫 How to reach me **uttam2005ab@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@uttam2005ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@uttam2005ab" height="30" width="40" /></a>
+<a href="https://twitter.com/uttam2005ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uttam2005ab" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/uttam-kumar-88b7a9288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uttam-kumar-88b7a9288" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@uttam2005ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@uttam2005ab" height="30" width="40" /></a>
+<a href="https://fb.com/100022080552327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100022080552327" height="30" width="40" /></a>
+<a href="https://instagram.com/uttam_kumar_2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uttam_kumar_2005" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/uttam2005ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="uttam2005ab" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/uttam2005ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="uttam2005ab" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uttamkumar05072023&show_icons=true&locale=en&layout=compact" alt="uttamkumar05072023" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uttamkumar05072023&show_icons=true&locale=en" alt="uttamkumar05072023" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uttamkumar05072023&" alt="uttamkumar05072023" /></p>
